@@ -13,7 +13,8 @@ function App() {
     // navigate("/home");
     return <home />;
   };
-  // onLogin();
+
+//on login function 
   const auth = useAuth();
 
   return (
